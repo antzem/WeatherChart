@@ -1,0 +1,10 @@
+https://gist.github.com/mvark/5231461
+http://stackoverflow.com/questions/17451313/yql-weather-forecast
+
+https://developer.yahoo.com/yql
+https://developer.yahoo.com/weather/documentation.html#examples
+
+http://nvd3.org/
+http://nvd3.org/examples/line.html
+http://nvd3.org/livecode/index.html
+http://d3js.org/
